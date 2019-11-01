@@ -18,7 +18,7 @@ function onLoad(e) {
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
             <div className="vek">{el.a}</div>
             <div className="vek">{el.v}, {el.r}</div>
-            <div className="vek">{el.pod}</div>
+            <div className="vek"><em>{el.pod}</em></div>
           </div>
           <div className="odpoved">{el.txt}</div>
           <div className="odpoved"><a href={el.z}>zdroj</a></div>
