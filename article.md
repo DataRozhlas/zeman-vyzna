@@ -1,5 +1,5 @@
 title: "Medaile za podporu? Zeman udělil státní vyznamenání celkem 80 svým příznivcům"
-perex: "Prezident Miloš Zeman každým rokem na státní svátek 28. října oceňuje víc a víc osobností veřejného života. Spolu s tím přibývá i vyznamenání, která putují do rukou jeho sympatizantů či přímých podporovatelů. Letos tvořili čtvrtinu všech oceněných. Server iROZHLAS.cz proto prošel všechny vyznamenané od Zemanova nástupu do funkce v roce 2013. Z celkových 220 oceněných dostalo medaili hned 80 jeho příznivců. Přinášíme jejich přehled."
+perex: "Prezident Miloš Zeman každým rokem na státní svátek 28. října oceňuje víc a víc osobností veřejného života. Spolu s tím přibývá i vyznamenání, která putují do rukou jeho blízkých, sympatizantů či přímých podporovatelů. Letos tvořili čtvrtinu všech oceněných. Server iROZHLAS.cz proto prošel všechny vyznamenané od Zemanova nástupu do funkce v roce 2013. Z celkových 220 oceněných dostalo medaili hned 80 jeho příznivců. Přinášíme jejich přehled."
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
@@ -25,6 +25,10 @@ Do kategorie sympatizantů spadají rovněž lidé, kteří se dají označit za
 Mezi přímé podporovatele server iROZHLAS.cz zařadil osobnosti, jež nynějšího prezidenta v uplynulých letech veřejně propagovaly či na jeho aktivity přispěly finančně. Jeden příklad za všechny: zbrojař Jaroslav Strnad poslal na sklonku roku 2017 na Zemanův transparentní účet 2,5 milionu korun, o rok později přišla medaile Za zásluhy.
 
 Jde ale také o prezidentovy někdejší spolupracovníky či politiky, kteří vystupují mimo jiné i v barvách Strany práv občanů Zemanovci (SPOZ). Tu Miloš Zeman v roce 2009 spoluzakládal a dodnes je jejím čestným předsedou. Výběrem: bývalý ministři v Zemanově vládě Miroslav Grégr a Jan Fencl nebo exsenátor a někdejší šéf JZD Slušovice František Čuba.
+
+<img class="embed" style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/uploader/73246770_54666733611_191028-202511_dok.jpg">
+ 
+_Foto: Michaela Danelová_
 
 Ze [42 letos oceněných](https://www.irozhlas.cz/zpravy-domov/statni-vyznamenani_1910282107_zit) osobností lze v přehledu příznivců najít třeba motokrosaře Libora Podmola, jenž prezidenta dlouhodobě podporuje, nebo publicistu Petra Martana, který s hlavou státu sdílí stejný názor na řešení kůrovcové kalamity. Ale také fotografa Jana Saudka a hokejistu Jaromíra Jágra.
 
