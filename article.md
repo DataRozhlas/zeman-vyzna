@@ -1,7 +1,7 @@
 title: "Medaile za podporu? Zeman udělil státní vyznamenání celkem 80 svým příznivcům"
 perex: "Prezident Miloš Zeman každým rokem na státní svátek 28. října oceňuje víc a víc osobností veřejného života. Přibývá i vyznamenání, která putují do rukou jeho sympatizantů či přímých podporovatelů. Podobně jako Václav Havel a Václav Klaus za to sklízí kritiku. Server iROZHLAS.cz prošel všechny vyznamenané od Zemanova nástupu do funkce v roce 2013. Z celkem 221 oceněných tvoří jemu blízcí lidé více než třetinu. Přinášíme jejich přehled."
 styles: []
-libraries: [] #jquery, d3, highcharts, datatables
+libraries: [highcharts] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
 Když Miloš Zeman pronášel po historicky první přímé volbě prezidenta svůj vítězný projev, stála po jeho boku. O půl roku později herečka Jiřina Bohdalová z jeho rukou během slavnostního ceremoniálu převzala medaili Za zásluhy.
@@ -13,6 +13,8 @@ Není jedinou celebritou. Miloš Zeman během svého působení na Hradě vyznam
 ## 80 blízkých
 
 Server iROZHLAS.cz spočítal, že Miloš Zeman od roku 2013, kdy se ujal úřadu, při příležitosti státního svátku 28. října vyznamenal celkem 220 českých i zahraničních osobností. Hned v 80 případech, tedy ve 36 procentech, šlo o jeho příznivce.
+
+<div id="vyvoj"></div>
 
 Redakce je v celkovém přehledu dělí do dvou kategorií: na sympatizanty (označeni oranžovou) a přímé podporovatele (označeni zeleně). Mezi sympatizanty zařadila osobnosti, které Zemana podpořily například během prezidentské kampaně, více se ale kolem něj neangažovaly. To je třeba případ filozofa Erazima Koháka nebo houslisty Pavla Šporcla. Ten nakonec v roce 2017 řekl, že se v Zemanovi spletl. „Zasloužíme si lepšího prezidenta,“ citoval ho server [Seznam Zprávy](https://www.seznamzpravy.cz/clanek/s-houslistou-sporclem-o-uctenkach-eet-na-koncertech-a-zklamani-z-prezidenta-zemana-32730).
 
