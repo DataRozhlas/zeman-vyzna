@@ -14,7 +14,7 @@ Není jedinou celebritou. Miloš Zeman během svého působení na Hradě vyznam
 
 Server iROZHLAS.cz spočítal, že Miloš Zeman od roku 2013, kdy se ujal úřadu, při příležitosti státního svátku 28. října vyznamenal celkem 220 českých i zahraničních osobností. Hned v 80 případech, tedy ve 36 procentech, šlo o jeho příznivce.
 
-Redakce je v celkovém přehledu dělí do dvou kategorií: na sympatizanty a přímé podporovatele. Mezi sympatizantů zařadila osobnosti, které Zemana podpořily například během prezidentské kampaně, více se ale kolem něj neangažovaly. To je třeba případ filozofa Erazima Koháka nebo houslisty Pavla Šporcla. Ten nakonec v roce 2017 řekl, že se v Zemanovi spletl. „Zasloužíme si lepšího prezidenta,“ citoval ho server [Seznam Zprávy](https://www.seznamzpravy.cz/clanek/s-houslistou-sporclem-o-uctenkach-eet-na-koncertech-a-zklamani-z-prezidenta-zemana-32730).
+Redakce je v celkovém přehledu dělí do dvou kategorií: na sympatizanty a přímé podporovatele. Mezi sympatizanty zařadila osobnosti, které Zemana podpořily například během prezidentské kampaně, více se ale kolem něj neangažovaly. To je třeba případ filozofa Erazima Koháka nebo houslisty Pavla Šporcla. Ten nakonec v roce 2017 řekl, že se v Zemanovi spletl. „Zasloužíme si lepšího prezidenta,“ citoval ho server [Seznam Zprávy](https://www.seznamzpravy.cz/clanek/s-houslistou-sporclem-o-uctenkach-eet-na-koncertech-a-zklamani-z-prezidenta-zemana-32730).
 
 <wide>
   <div id="anketa-wrapper"></div>
