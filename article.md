@@ -1,5 +1,5 @@
 title: "Medaile za podporu? Zeman udělil státní vyznamenání celkem 80 svým příznivcům"
-perex: "Prezident Miloš Zeman každým rokem na státní svátek 28. října oceňuje víc a víc osobností veřejného života. Spolu s tím přibývá i vyznamenání, která putují do rukou jeho blízkých, sympatizantů či přímých podporovatelů. Letos tvořili čtvrtinu všech oceněných. Server iROZHLAS.cz proto prošel všechny vyznamenané od Zemanova nástupu do funkce v roce 2013. Z celkových 220 oceněných dostalo medaili hned 80 jeho příznivců. Přinášíme jejich přehled."
+perex: "Prezident Miloš Zeman každým rokem na státní svátek 28. října oceňuje víc a víc osobností veřejného života. Přibývá i vyznamenání, která putují do rukou jeho sympatizantů či přímých podporovatelů. Podobně jako Václav Havel a Václav Klaus za to sklízí kritiku. Server iROZHLAS.cz prošel všechny vyznamenané od Zemanova nástupu do funkce v roce 2013. Z celkem 220 oceněných tvoří jemu blízcí lidé více než třetinu. Přinášíme jejich přehled."
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
