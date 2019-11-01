@@ -8,9 +8,6 @@ import unidecode
 d = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vQOXTTWSjRe5OlcMTGB6KEPnwV6ZJ6GLvXhBir4j4P07Y5z3YKbnFJJ8HdRkxh_dS0884RnndO-6L6F/pub?gid=0&single=true&output=csv')
 
 #%%
-d.columns
-
-#%%
 d.fillna('', inplace=True)
 
 #%%
