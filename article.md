@@ -26,9 +26,9 @@ Mezi přímé podporovatele server iROZHLAS.cz zařadil osobnosti, jež nynějš
 
 Jde ale také o prezidentovy někdejší spolupracovníky či politiky, kteří vystupují mimo jiné i v barvách Strany práv občanů Zemanovci (SPOZ). Tu Miloš Zeman v roce 2009 spoluzakládal a dodnes je jejím čestným předsedou. Výběrem: bývalý ministři v Zemanově vládě Miroslav Grégr a Jan Fencl nebo exsenátor a někdejší šéf JZD Slušovice František Čuba.
 
+_Prezident Miloš Zeman během slavnostního ceremoniálu na Pražském hradě v roce 2019, foto: Michaela Danelová_  
+
 <img class="embed" style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/uploader/73246770_54666733611_191028-202511_dok.jpg">
- 
-_Foto: Michaela Danelová_
 
 Ze [42 letos oceněných](https://www.irozhlas.cz/zpravy-domov/statni-vyznamenani_1910282107_zit) osobností lze v přehledu příznivců najít třeba motokrosaře Libora Podmola, jenž prezidenta dlouhodobě podporuje, nebo publicistu Petra Martana, který s hlavou státu sdílí stejný názor na řešení kůrovcové kalamity. Ale také fotografa Jana Saudka a hokejistu Jaromíra Jágra.
 
